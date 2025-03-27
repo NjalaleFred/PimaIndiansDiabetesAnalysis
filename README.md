@@ -22,8 +22,12 @@ The data contains measurements such as:
 * Outcome (diabetes diagnosis)
 
 ### Tools Used
-
-- **Tools include: python, oandas for data processing, seaborn and matpotlib for visualization, numpy and jupyter notebook.
+Tools include: 
+- Python
+- Pandas for data processing
+- Seaborn and matpotlib for visualization 
+- Numpy 
+- Jupyter notebook.
 
 
 ## Key Project Steps
