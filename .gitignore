@@ -1,0 +1,37 @@
+myenv/
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large datasets
+*.csv
+*.zip
+*.tar
+*.gz
+
+# Node (if using JavaScript/TypeScript tools)
+node_modules/
+
+# Git
+.git/
